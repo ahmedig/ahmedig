@@ -11,11 +11,34 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmedig.ahmedig)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Ahmed Elsayed"
+        self.role = "Principal Consultant"
+        self.language_spoken = ["ar_EG", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+
+### Certifications
 <!--START_SECTION:badges-->
 [![GitHub Administration](https://images.credly.com/size/110x110/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png)](http://www.credly.com/badges/af4e70d3-e0ed-4646-b81b-7c88b321aff6 "GitHub Administration")
 [![GitHub Advanced Security](https://images.credly.com/size/110x110/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](http://www.credly.com/badges/ee0ffd98-1e2c-455b-8e29-3221696145dc "GitHub Advanced Security")
