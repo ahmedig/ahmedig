@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:badges-->
+[![GitHub Administration](https://images.credly.com/size/110x110/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png)](http://www.credly.com/badges/af4e70d3-e0ed-4646-b81b-7c88b321aff6 "GitHub Administration")
+[![GitHub Advanced Security](https://images.credly.com/size/110x110/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](http://www.credly.com/badges/ee0ffd98-1e2c-455b-8e29-3221696145dc "GitHub Advanced Security")
+[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/f41987db-7347-4e0c-bc9d-7ee2a31c4c08 "GitHub Actions")
 <!--END_SECTION:badges-->
