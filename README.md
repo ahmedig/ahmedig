@@ -49,4 +49,6 @@ me.say_hi()
 
 ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedig&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedig&hide=TeX&layout=compact)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmedig&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
