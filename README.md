@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class SoftwareConsultant:
 
     def __init__(self):
         self.name = "Ahmed Elsayed"
@@ -33,7 +33,7 @@ class SoftwareEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = SoftwareConsultant()
 me.say_hi()
 ```
 
